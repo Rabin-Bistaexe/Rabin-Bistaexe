@@ -1,21 +1,24 @@
 # Hi, I'm Rabin Bista 👋
 
-BSc (Hons) Information Technology student at Asia Pacific University (APU), based in Kathmandu, Nepal. Currently building toward a full-stack development internship, with a focus on the MERN-ish stack (React, Node.js/Express, MySQL) and AI integration.
+BSc (Hons) Information Technology student at Asia Pacific University (APU), Kathmandu, Nepal.
 
-## 🔭 Currently Working On
-- **Personal Fitness & Habit Tracker** — a full-stack app (React + Node/Express + MySQL) built as my primary portfolio project, targeting a problem regarding habit tracking and fitness.
-- **Web-Based AI-Assisted Symptom Checker and Health Triage Application ** - a full-stack app (React + Node/Express + MySQL + Gemini API) built on primarily focusing on improving Healthcare Decision-Making for Nepali Citizens.
+I'm currently focusing on **Data Analytics** and building practical skills in data cleaning, analysis, and visualization. My long-term goal is to grow into Data Science.
 
-## 🛠️ Tech I Work With
-`JavaScript` · `React` · `Node.js` · `Express` · `MySQL` · `Java` · `Python` · `R`
+### 🔭 What I'm doing right now
+- Building data projects using Excel, SQL, and Power BI
+- Learning Python (Pandas) and improving my SQL skills
+- Working on turning raw datasets into clear insights
 
-## 🌱 Currently Learning
-- AI integration in web applications
-- MERN Stack Development Fundamentals
+### 🛠️ Skills
+**Data Analysis:** Excel · SQL · Power BI · Python (Pandas) · R  
+**Databases:** MySQL · PostgreSQL  
+**Others:** Git · GitHub · basic web development (React, Node.js)
 
-## 📫 Reach Me
-- LinkedIn: https://www.linkedin.com/in/rabin-bista-8724aa348/
+### 📊 Projects
+- Sales Performance Dashboard (Excel)
+- Retail Transaction Analysis (R + Statistical Analysis)
+- More projects coming soon...
+
+### 🔗 Connect with me
+- LinkedIn: [https://www.linkedin.com/in/rabin-bista-8724aa348/](https://www.linkedin.com/in/rabin-bista-8724aa348/)
 - Email: bistarabin85@gmail.com
-
----
-*This profile is a work in progress — cleaning house and starting fresh as I build out real projects.*
